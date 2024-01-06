@@ -1,0 +1,50 @@
+
+
+p {
+    font-family:cursive;
+    font-size: larger;
+}
+.card-img-overlay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title{
+    font-family: 'Pacifico';
+    color: darkgreen;
+    
+}
+h2{
+    color: darkgreen;
+    font-family:cursive;
+    
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.profile-img {
+    height: 150px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.btn{
+    background-color:rgb(88, 164, 88);
+    border-radius: 8px;
+    border: 0;
+    border-radius: 8px;
+    font-family:cursive;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    --bs-btn-hover-bg: rgb(50, 198, 50);
+}
+
+footer{
+    background-color: rgb(88, 164, 88);
+}
